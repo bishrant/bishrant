@@ -19,4 +19,4 @@ Checkout these apps if you've got some time:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishrant)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishrant&theme=dark&show_icons=true&count_private=true&custom_title=Stats&hide_title=true)
